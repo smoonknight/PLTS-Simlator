@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f67e4d58f3a7e4e4698c26ac7a365f21, type: 3}
+  m_Name: Workhouse Camera
+  m_EditorClassIdentifier: 
+  name: CCTV #3
+  location: {x: -12.409317, y: 24.56089, z: 32.969955}
+  rotation: {x: 7.2543826, y: 132.80756, z: 0.0003862225}
